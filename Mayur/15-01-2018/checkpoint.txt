@@ -1,0 +1,3 @@
+scan through all the dataset
+do the feature engineering
+at least implement one algorithm
