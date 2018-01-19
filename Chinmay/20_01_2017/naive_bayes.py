@@ -49,6 +49,11 @@ for mindex in match_index:
     balls_faced = 0
     kohli_data = []
     for indexs,match_details in df_match.iterrows():
+        ls = list(df_match.loc[indexs , 'info.teams'])
+        if ls[0] == 'India':
+            opposition = ls[1]
+        else:
+            opposition = ls[0]
         batsman = df_match.loc[indexs,'batsman']        
         if (df_match.loc[indexs,'batsman'] == 'RG Sharma'):
             runs = runs + df_match.loc[indexs,'runs.batsman']
@@ -57,7 +62,7 @@ for mindex in match_index:
     kohli_data.append(df_match.loc[indexs,'info.match_type'])
     kohli_data.append(df_match.loc[indexs,'info.dates'])
     kohli_data.append(df_match.loc[indexs,'info.neutral_venue'])
-    kohli_data.append(df_match.loc[indexs,'info.teams'])
+    kohli_data.append(opposition)
     #kohli_data.append(mindex)
     kohli_data.append(runs)
     kohli_data.append(balls_faced)
@@ -76,17 +81,21 @@ import numpy as np
 d = zip(batsman_data['runs'],batsman_data['balls_faced'])
 x = np.array(batsman_data['runs'],batsman_data['balls_faced'])
 
+batsman_data['team_encoded'] = batsman_data['teams'].astype('category').cat.codes
 
-A = batsman_data.loc[:, 'balls_faced'].values
+
+batsman_data['teams'].astype('category').cat.codes
+
+A = batsman_data.loc[:, ['balls_faced' , 'team_encoded']].values
 B = batsman_data.loc[:, 'runs'].values
 
 from sklearn.cross_validation import train_test_split
 X_train, X_test, y_train, y_test = train_test_split(A, B, test_size = 0.05, random_state = 0)
 
 
-x = []
-for f,b in zip(X_train,X_train):
-    x.append([f,b])
+#x = []
+#for f,b in zip(X_train,X_train):
+#    x.append([f,b])
 
 
 
@@ -97,11 +106,53 @@ Y = np.array(y_train)
 
 model = GaussianNB()
 
-model.fit(x, Y)
+model.fit(X_train, y_train)
 
 pred_x = []
 for f,b in zip(X_test,X_test):
     pred_x.append([f,b])
 #Predict Output 
-predicted= model.predict(pred_x)
+predicted= model.predict(X_test)
 print(predicted)
+
+
+
+
+
+
+import matplotlib.pyplot as plt
+from matplotlib.colors import ListedColormap
+
+X_set, y_set = X_test, y_test
+X1, X2 = np.meshgrid(np.arange(start = X_set.min() - 1, stop = X_set.max() + 1, step = 10),
+                     np.arange(start = X_set.min() - 1, stop = X_set.max() + 1, step = 10))
+plt.contourf(X1, X2, model.predict(np.array([X1.ravel(), X2.ravel()]).T).reshape(X1.shape),
+             alpha = 0.75, cmap = ListedColormap(('red', 'green')))
+plt.xlim(X1.min(), X1.max())
+plt.ylim(X2.min(), X2.max())
+for i, j in enumerate(np.unique(y_set)):
+    plt.scatter(X_set[y_set == j, 0], X_set[y_set == j, 1],
+                c = ListedColormap(('red', 'green'))(i), label = j)
+plt.title('Naive Bayes (Test set)')
+plt.xlabel('Balls')
+plt.ylabel('Estimated Runs')
+plt.legend()
+plt.show()
+
+
+from matplotlib.colors import ListedColormap
+X_set, y_set = X_test, y_test
+X1, X2 = np.meshgrid(np.arange(start = X_set.min() - 1, stop = X_set.max() + 1, step = 10),
+                     np.arange(start = X_set.min() - 1, stop = X_set.max() + 1, step = 10))
+plt.contourf(X1, X2, model.predict(np.array([X1.ravel(), X2.ravel()]).T).reshape(X1.shape),
+             alpha = 0.75, cmap = ListedColormap(('red', 'green')))
+plt.xlim(X1.min(), X1.max())
+plt.ylim(X2.min(), X2.max())
+for i, j in enumerate(np.unique(y_set)):
+    plt.scatter(X_set[y_set == j, 0], X_set[y_set == j, 1],
+                c = ListedColormap(('red', 'green'))(i), label = j)
+plt.title('Naive Bayes (Test set)')
+plt.xlabel('Balls')
+plt.ylabel('Estimated Runs')
+plt.legend()
+plt.show()
