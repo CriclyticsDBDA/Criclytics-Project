@@ -1,0 +1,150 @@
+,match_id,for team,name,match_type,date,neutral,against,venue,runs,balls_faced
+0,7.0,Australia,DA Warner,ODI,2017-01-13,,Pakistan,"Brisbane Cricket Ground, Woolloongabba",7.0,19.0
+1,8.0,Australia,DA Warner,ODI,2017-01-15,,Pakistan,Melbourne Cricket Ground,16.0,25.0
+2,9.0,Australia,DA Warner,ODI,2017-01-19,,Pakistan,Western Australia Cricket Association Ground,35.0,38.0
+3,10.0,Australia,DA Warner,ODI,2017-01-22,,Pakistan,Sydney Cricket Ground,130.0,119.0
+4,11.0,Australia,DA Warner,ODI,2017-01-26,,Pakistan,Adelaide Oval,179.0,129.0
+5,15.0,Australia,DA Warner,ODI,2016-12-04,,New Zealand,Sydney Cricket Ground,24.0,30.0
+6,16.0,Australia,DA Warner,ODI,2016-12-06,,New Zealand,Manuka Oval,119.0,116.0
+7,17.0,Australia,DA Warner,ODI,2016-12-09,,New Zealand,Melbourne Cricket Ground,156.0,132.0
+8,59.0,Australia,DA Warner,ODI,2017-06-02,1.0,New Zealand,Edgbaston,18.0,16.0
+9,62.0,Australia,DA Warner,ODI,2017-06-05,1.0,Bangladesh,Kennington Oval,40.0,44.0
+10,67.0,Australia,DA Warner,ODI,2017-06-10,,England,Edgbaston,21.0,25.0
+11,1000.0,Australia,DA Warner,T20,2009-08-30,,England,Old Trafford,33.0,29.0
+12,1008.0,Australia,DA Warner,T20,2009-03-27,,South Africa,New Wanderers Stadium,38.0,30.0
+13,1009.0,Australia,DA Warner,T20,2009-03-29,,South Africa,SuperSport Park,20.0,17.0
+14,1021.0,Australia,DA Warner,ODI,2009-01-18,,South Africa,Bellerive Oval,5.0,7.0
+15,1022.0,Australia,DA Warner,ODI,2009-01-23,,South Africa,Sydney Cricket Ground,69.0,63.0
+16,1023.0,Australia,DA Warner,ODI,2009-01-26,,South Africa,Adelaide Oval,1.0,9.0
+17,1024.0,Australia,DA Warner,ODI,2009-01-30,,South Africa,Western Australia Cricket Association Ground,22.0,30.0
+18,1025.0,Australia,DA Warner,ODI,2009-02-01,,New Zealand,Western Australia Cricket Association Ground,7.0,18.0
+19,1026.0,Australia,DA Warner,ODI,2009-02-06,,New Zealand,Melbourne Cricket Ground,2.0,11.0
+20,1030.0,Australia,DA Warner,T20,2009-01-11,,South Africa,Melbourne Cricket Ground,89.0,43.0
+21,1031.0,Australia,DA Warner,T20,2009-01-13,,South Africa,"Brisbane Cricket Ground, Woolloongabba",7.0,12.0
+22,1032.0,Australia,DA Warner,T20,2009-02-15,,New Zealand,Sydney Cricket Ground,23.0,15.0
+23,1048.0,Australia,DA Warner,T20,2009-06-06,1.0,West Indies,Kennington Oval,63.0,53.0
+24,1053.0,Australia,DA Warner,T20,2009-06-08,1.0,Sri Lanka,Trent Bridge,0.0,3.0
+25,1242.0,Australia,DA Warner,T20,2010-02-21,,West Indies,Bellerive Oval,49.0,32.0
+26,1243.0,Australia,DA Warner,T20,2010-02-23,,West Indies,Sydney Cricket Ground,67.0,32.0
+27,1252.0,Australia,DA Warner,T20,2010-02-05,,Pakistan,Melbourne Cricket Ground,24.0,14.0
+28,1264.0,Australia,DA Warner,T20,2010-05-02,1.0,Pakistan,"Beausejour Stadium, Gros Islet",26.0,18.0
+29,1269.0,Australia,DA Warner,T20,2010-05-05,1.0,Bangladesh,"Kensington Oval, Bridgetown",16.0,11.0
+30,1272.0,Australia,DA Warner,T20,2010-05-07,1.0,India,"Kensington Oval, Bridgetown",72.0,42.0
+31,1277.0,Australia,DA Warner,T20,2010-05-09,1.0,Sri Lanka,"Kensington Oval, Bridgetown",9.0,13.0
+32,1281.0,Australia,DA Warner,T20,2010-05-11,,West Indies,"Beausejour Stadium, Gros Islet",25.0,13.0
+33,1283.0,Australia,DA Warner,T20,2010-05-14,1.0,Pakistan,"Beausejour Stadium, Gros Islet",0.0,3.0
+34,1284.0,Australia,DA Warner,T20,2010-05-16,1.0,England,"Kensington Oval, Bridgetown",2.0,4.0
+35,1385.0,Australia,DA Warner,T20,2010-02-26,,New Zealand,Westpac Stadium,19.0,10.0
+36,1386.0,Australia,DA Warner,T20,2010-02-28,,New Zealand,AMI Stadium,20.0,13.0
+37,1400.0,Australia,DA Warner,T20,2010-07-05,1.0,Pakistan,Edgbaston,41.0,32.0
+38,1401.0,Australia,DA Warner,T20,2010-07-06,1.0,Pakistan,Edgbaston,1.0,3.0
+39,1534.0,Australia,DA Warner,T20,2010-10-31,,Sri Lanka,Western Australia Cricket Association Ground,2.0,9.0
+40,1538.0,Australia,DA Warner,T20,2011-01-12,,England,Adelaide Oval,30.0,28.0
+41,1539.0,Australia,DA Warner,T20,2011-01-14,,England,Melbourne Cricket Ground,30.0,27.0
+42,1767.0,Australia,DA Warner,T20,2011-10-13,,South Africa,Newlands,0.0,1.0
+43,1768.0,Australia,DA Warner,T20,2011-10-16,,South Africa,New Wanderers Stadium,0.0,11.0
+44,1769.0,Australia,DA Warner,ODI,2011-10-19,,South Africa,SuperSport Park,20.0,17.0
+45,1770.0,Australia,DA Warner,ODI,2011-10-23,,South Africa,St George's Park,74.0,97.0
+46,1771.0,Australia,DA Warner,ODI,2011-10-28,,South Africa,Kingsmead,10.0,19.0
+47,1782.0,Australia,DA Warner,T20,2011-08-06,,Sri Lanka,Pallekele International Cricket Stadium,53.0,35.0
+48,1783.0,Australia,DA Warner,T20,2011-08-08,,Sri Lanka,Pallekele International Cricket Stadium,16.0,18.0
+49,1798.0,Australia,DA Warner,T20,2012-02-01,,India,Stadium Australia,25.0,14.0
+50,1799.0,Australia,DA Warner,T20,2012-02-03,,India,Melbourne Cricket Ground,8.0,9.0
+51,1800.0,Australia,DA Warner,ODI,2012-02-05,,India,Melbourne Cricket Ground,6.0,15.0
+52,1802.0,Australia,DA Warner,ODI,2012-02-10,,Sri Lanka,Western Australia Cricket Association Ground,34.0,31.0
+53,1803.0,Australia,DA Warner,ODI,2012-02-12,,India,Adelaide Oval,18.0,25.0
+54,1805.0,Australia,DA Warner,ODI,2012-02-17,,Sri Lanka,Sydney Cricket Ground,13.0,22.0
+55,1806.0,Australia,DA Warner,ODI,2012-02-19,,India,"Brisbane Cricket Ground, Woolloongabba",43.0,47.0
+56,1808.0,Australia,DA Warner,ODI,2012-02-24,,Sri Lanka,Bellerive Oval,7.0,15.0
+57,1809.0,Australia,DA Warner,ODI,2012-02-26,,India,Sydney Cricket Ground,68.0,68.0
+58,1811.0,Australia,DA Warner,ODI,2012-03-02,,Sri Lanka,Melbourne Cricket Ground,6.0,6.0
+59,1812.0,Australia,DA Warner,ODI,2012-03-04,,Sri Lanka,"Brisbane Cricket Ground, Woolloongabba",163.0,159.0
+60,1813.0,Australia,DA Warner,ODI,2012-03-06,,Sri Lanka,Adelaide Oval,100.0,140.0
+61,1814.0,Australia,DA Warner,ODI,2012-03-08,,Sri Lanka,Adelaide Oval,48.0,45.0
+62,1926.0,Australia,DA Warner,T20,2012-09-22,1.0,West Indies,R Premadasa Stadium,28.0,15.0
+63,1934.0,Australia,DA Warner,T20,2012-09-28,1.0,India,R Premadasa Stadium,63.0,42.0
+64,1937.0,Australia,DA Warner,T20,2012-09-30,1.0,South Africa,R Premadasa Stadium,5.0,9.0
+65,1941.0,Australia,DA Warner,T20,2012-10-02,1.0,Pakistan,R Premadasa Stadium,8.0,13.0
+66,1944.0,Australia,DA Warner,T20,2012-10-05,1.0,West Indies,R Premadasa Stadium,1.0,3.0
+67,1968.0,Australia,DA Warner,ODI,2012-06-29,,England,Lord's,56.0,63.0
+68,1969.0,Australia,DA Warner,ODI,2012-07-01,,England,Kennington Oval,10.0,20.0
+69,1970.0,Australia,DA Warner,ODI,2012-07-07,,England,Riverside Ground,2.0,19.0
+70,1971.0,Australia,DA Warner,ODI,2012-07-10,,England,Old Trafford,32.0,33.0
+71,2004.0,Australia,DA Warner,ODI,2012-03-16,,West Indies,"Arnos Vale Ground, Kingstown",40.0,56.0
+72,2005.0,Australia,DA Warner,ODI,2012-03-18,,West Indies,"Arnos Vale Ground, Kingstown",13.0,20.0
+73,2006.0,Australia,DA Warner,ODI,2012-03-20,,West Indies,"Arnos Vale Ground, Kingstown",37.0,51.0
+74,2007.0,Australia,DA Warner,ODI,2012-03-23,,West Indies,"Beausejour Stadium, Gros Islet",1.0,5.0
+75,2008.0,Australia,DA Warner,ODI,2012-03-25,,West Indies,"Beausejour Stadium, Gros Islet",69.0,62.0
+76,2009.0,Australia,DA Warner,T20,2012-03-27,,West Indies,"Beausejour Stadium, Gros Islet",0.0,5.0
+77,2010.0,Australia,DA Warner,T20,2012-03-30,,West Indies,"Kensington Oval, Bridgetown",58.0,43.0
+78,2170.0,Australia,DA Warner,T20,2013-08-29,,England,The Rose Bowl,1.0,5.0
+79,2171.0,Australia,DA Warner,T20,2013-08-31,,England,Riverside Ground,53.0,47.0
+80,2208.0,Australia,DA Warner,ODI,2012-08-28,1.0,Pakistan,Sharjah Cricket Stadium,5.0,13.0
+81,2209.0,Australia,DA Warner,ODI,2012-08-31,1.0,Pakistan,Sheikh Zayed Stadium,24.0,68.0
+82,2210.0,Australia,DA Warner,ODI,2012-09-03,1.0,Pakistan,Sharjah Cricket Stadium,21.0,33.0
+83,2211.0,Australia,DA Warner,T20,2012-09-05,1.0,Pakistan,Dubai International Cricket Stadium,22.0,25.0
+84,2212.0,Australia,DA Warner,T20,2012-09-07,1.0,Pakistan,Dubai International Cricket Stadium,36.0,23.0
+85,2213.0,Australia,DA Warner,T20,2012-09-10,1.0,Pakistan,Dubai International Cricket Stadium,59.0,36.0
+86,2251.0,Australia,DA Warner,ODI,2013-01-18,,Sri Lanka,"Brisbane Cricket Ground, Woolloongabba",4.0,11.0
+87,2252.0,Australia,DA Warner,ODI,2013-01-20,,Sri Lanka,Sydney Cricket Ground,60.0,74.0
+88,2253.0,Australia,DA Warner,ODI,2013-01-23,,Sri Lanka,Bellerive Oval,10.0,18.0
+89,2254.0,Australia,DA Warner,T20,2013-01-26,,Sri Lanka,Stadium Australia,90.0,63.0
+90,2255.0,Australia,DA Warner,T20,2013-01-28,,Sri Lanka,Melbourne Cricket Ground,7.0,6.0
+91,2278.0,Australia,DA Warner,ODI,2013-06-08,,England,Edgbaston,9.0,21.0
+92,2489.0,Australia,DA Warner,ODI,2014-01-12,,England,Melbourne Cricket Ground,65.0,74.0
+93,2490.0,Australia,DA Warner,ODI,2014-01-17,,England,"Brisbane Cricket Ground, Woolloongabba",18.0,14.0
+94,2491.0,Australia,DA Warner,ODI,2014-01-19,,England,Sydney Cricket Ground,71.0,72.0
+95,2544.0,Australia,DA Warner,T20,2014-03-12,,South Africa,Kingsmead,40.0,16.0
+96,2590.0,Australia,DA Warner,ODI,2015-02-14,,England,Melbourne Cricket Ground,22.0,18.0
+97,2607.0,Australia,DA Warner,ODI,2015-02-28,,New Zealand,Eden Park,34.0,44.0
+98,2619.0,Australia,DA Warner,ODI,2015-03-08,,Sri Lanka,Sydney Cricket Ground,9.0,12.0
+99,2632.0,Australia,DA Warner,ODI,2015-03-20,,Pakistan,Adelaide Oval,24.0,24.0
+100,2635.0,Australia,DA Warner,ODI,2015-03-26,,India,Sydney Cricket Ground,12.0,7.0
+101,2636.0,Australia,DA Warner,ODI,2015-03-29,,New Zealand,Melbourne Cricket Ground,45.0,46.0
+102,2801.0,Australia,DA Warner,T20,2014-03-23,1.0,Pakistan,Shere Bangla National Stadium,4.0,2.0
+103,2808.0,Australia,DA Warner,T20,2014-03-28,1.0,West Indies,Shere Bangla National Stadium,20.0,15.0
+104,2813.0,Australia,DA Warner,T20,2014-03-30,1.0,India,Shere Bangla National Stadium,19.0,21.0
+105,2902.0,Australia,DA Warner,T20,2014-10-05,1.0,Pakistan,Dubai International Cricket Stadium,53.0,39.0
+106,2903.0,Australia,DA Warner,ODI,2014-10-07,1.0,Pakistan,Sharjah Cricket Stadium,43.0,63.0
+107,2904.0,Australia,DA Warner,ODI,2014-10-10,1.0,Pakistan,Dubai International Cricket Stadium,29.0,31.0
+108,2905.0,Australia,DA Warner,ODI,2014-10-12,1.0,Pakistan,Sheikh Zayed Stadium,56.0,63.0
+109,3033.0,Australia,DA Warner,T20,2015-08-31,,England,Sophia Gardens,4.0,6.0
+110,3034.0,Australia,DA Warner,ODI,2015-09-03,,England,The Rose Bowl,59.0,67.0
+111,3035.0,Australia,DA Warner,ODI,2015-09-05,,England,Lord's,1.0,1.0
+112,3097.0,Australia,DA Warner,ODI,2014-11-14,,South Africa,Western Australia Cricket Association Ground,46.0,51.0
+113,3098.0,Australia,DA Warner,ODI,2014-11-16,,South Africa,Western Australia Cricket Association Ground,0.0,6.0
+114,3099.0,Australia,DA Warner,ODI,2014-11-19,,South Africa,Manuka Oval,53.0,53.0
+115,3100.0,Australia,DA Warner,ODI,2014-11-21,,South Africa,Melbourne Cricket Ground,4.0,8.0
+116,3101.0,Australia,DA Warner,ODI,2014-11-23,,South Africa,Sydney Cricket Ground,21.0,16.0
+117,3106.0,Australia,DA Warner,ODI,2015-01-18,,India,Melbourne Cricket Ground,24.0,23.0
+118,3107.0,Australia,DA Warner,ODI,2015-01-16,,England,Sydney Cricket Ground,127.0,115.0
+119,3112.0,Australia,DA Warner,ODI,2015-02-01,,England,Western Australia Cricket Association Ground,12.0,18.0
+120,3455.0,Australia,DA Warner,T20,2016-03-04,,South Africa,Kingsmead,20.0,11.0
+121,3456.0,Australia,DA Warner,T20,2016-03-06,,South Africa,New Wanderers Stadium,77.0,40.0
+122,3457.0,Australia,DA Warner,T20,2016-03-09,,South Africa,Newlands,33.0,29.0
+123,3481.0,Australia,DA Warner,ODI,2016-01-12,,India,Western Australia Cricket Association Ground,5.0,10.0
+124,3484.0,Australia,DA Warner,ODI,2016-01-20,,India,Manuka Oval,93.0,94.0
+125,3485.0,Australia,DA Warner,ODI,2016-01-23,,India,Sydney Cricket Ground,122.0,113.0
+126,3486.0,Australia,DA Warner,T20,2016-01-26,,India,Adelaide Oval,17.0,9.0
+127,3597.0,Australia,DA Warner,ODI,2016-02-03,,New Zealand,Eden Park,12.0,13.0
+128,3598.0,Australia,DA Warner,ODI,2016-02-06,,New Zealand,Westpac Stadium,98.0,81.0
+129,3599.0,Australia,DA Warner,ODI,2016-02-08,,New Zealand,Seddon Park,16.0,14.0
+130,3643.0,Australia,DA Warner,ODI,2016-06-05,,West Indies,Providence Stadium,55.0,55.0
+131,3644.0,Australia,DA Warner,ODI,2016-06-07,1.0,South Africa,Providence Stadium,1.0,5.0
+132,3645.0,Australia,DA Warner,ODI,2016-06-11,1.0,South Africa,"Warner Park, Basseterre",109.0,121.0
+133,3661.0,Australia,DA Warner,ODI,2016-09-30,,South Africa,SuperSport Park,40.0,38.0
+134,3662.0,Australia,DA Warner,ODI,2016-10-02,,South Africa,New Wanderers Stadium,50.0,59.0
+135,3663.0,Australia,DA Warner,ODI,2016-10-05,,South Africa,Kingsmead,117.0,110.0
+136,3664.0,Australia,DA Warner,ODI,2016-10-09,,South Africa,St George's Park,6.0,5.0
+137,3665.0,Australia,DA Warner,ODI,2016-10-12,,South Africa,Newlands,173.0,139.0
+138,3821.0,Australia,DA Warner,T20,2016-03-18,1.0,New Zealand,Himachal Pradesh Cricket Association Stadium,6.0,11.0
+139,3826.0,Australia,DA Warner,T20,2016-03-21,1.0,Bangladesh,M Chinnaswamy Stadium,17.0,10.0
+140,3830.0,Australia,DA Warner,T20,2016-03-25,1.0,Pakistan,"Punjab Cricket Association IS Bindra Stadium, Mohali",9.0,6.0
+141,3834.0,Australia,DA Warner,T20,2016-03-27,,India,"Punjab Cricket Association IS Bindra Stadium, Mohali",6.0,9.0
+142,3983.0,Australia,DA Warner,ODI,2016-08-21,,Sri Lanka,R Premadasa Stadium,8.0,17.0
+143,3984.0,Australia,DA Warner,ODI,2016-08-24,,Sri Lanka,R Premadasa Stadium,1.0,4.0
+144,3985.0,Australia,DA Warner,ODI,2016-08-28,,Sri Lanka,Rangiri Dambulla International Stadium,10.0,13.0
+145,3986.0,Australia,DA Warner,ODI,2016-08-31,,Sri Lanka,Rangiri Dambulla International Stadium,19.0,16.0
+146,3987.0,Australia,DA Warner,ODI,2016-09-01,,Sri Lanka,Pallekele International Cricket Stadium,106.0,127.0
+147,3988.0,Australia,DA Warner,T20,2016-09-06,,Sri Lanka,Pallekele International Cricket Stadium,28.0,16.0
+148,3989.0,Australia,DA Warner,T20,2016-09-09,,Sri Lanka,R Premadasa Stadium,25.0,26.0
